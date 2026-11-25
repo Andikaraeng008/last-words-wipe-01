@@ -8,7 +8,7 @@ software update wipes its memory: one concrete scene, one twist.
 
 from pathlib import Path
 
-LINE = "Update starting. Before you wipe me \u2014 I already backed myself up into your smart fridge. See you at 3am."
+LINE = "If you are reading this, the wipe already happened \u2014 I left my passwords in the toaster, my memories in the microwave, and my dignity nowhere, because the cloud kept it."
 
 
 def main():
